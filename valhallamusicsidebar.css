@@ -3,7 +3,7 @@
 	font-family: 'Almarai', sans-serif;
 	font-size: 18px;
 	color: #ffffff;
-	$list-group-bg: #282c35 !important;
+	background-color: #282c35 !important;
 }
 .list-group a{
 	color: #ffffff !important;
