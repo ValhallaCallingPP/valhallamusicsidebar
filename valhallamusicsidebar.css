@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Almarai&display=swap');
 list-group{
-	font-family: 'Almarai', sans-serif !important;
-	font-size: 18px !important;
-	color: #ffffff !important;
   --bs-list-group-color: #212529; 
 }
 .list-group a{
