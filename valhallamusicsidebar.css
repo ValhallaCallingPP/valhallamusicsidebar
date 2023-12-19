@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Almarai&display=swap');
-.list-group-item-dark{
+list-group-item, .list-group-item-dark{
 	font-family: 'Almarai', sans-serif !important;
 	font-size: 18px !important;
 	color: #ffffff !important;
