@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Almarai&display=swap');
-.list-group-items-#{$state}{
+.list-group-item-#{$state}{
 	font-family: 'Almarai', sans-serif;
 	font-size: 18px;
 	color: #ffffff;
