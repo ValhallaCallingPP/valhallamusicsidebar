@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai&display=swap');
+.list-group-item-secondary{
+	font-family: 'Almarai', sans-serif;
+	font-size: 18px;
+	color: #ffffff;
+	background-color: #282c35 !important;
+}
+.list-group a{
+	color: #ffffff !important;
+}
+.list-group a:hover{
+	color: #b57de3 !important;
+}
+a.list-group-item{
+	font-family: 'Almarai', sans-serif;
+	font-size: 18px;
+	background-color: transparent !important;
+}
+@media screen and (max-width: 768px){
+	@import url('https://fonts.googleapis.com/css2?family=Almarai&display=swap');
+.list-group-item-secondary{
+	font-family: 'Almarai', sans-serif;
+	font-size: 18px;
+	color: #ffffff;
+	background-color: #282c35 !important;
+}
+.list-group-item-secondary a{
+	color: #ffffff !important;
+}
+.list-group-item-secondary a:hover{
+	color: #b57de3 !important;
+}
+a.list-group-item{
+	font-family: 'Almarai', sans-serif;
+	font-size: 18px;
+	background-color: transparent !important;
+}
+}
