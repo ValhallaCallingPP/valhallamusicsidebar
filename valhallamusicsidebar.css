@@ -1,11 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Almarai&display=swap')
 	
 .list-group-item-mine{
-	font-family: 'Almarai', sans-serif !important;
-	font-size: 18px !important;
-	color: #ffffff !important;
-	background-color: #282c35;
-}
+		background-color: #282c35 !important;
+	}
 .list-group a{
 	color: #ffffff !important;
 }
