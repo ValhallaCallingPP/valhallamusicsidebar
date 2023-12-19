@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Almarai&display=swap');
+	:root{
+		  --bs-secondary: #282c35 !important;
+	}
 list-group{
 	font-family: 'Almarai', sans-serif !important;
 	font-size: 18px !important;
 	color: #ffffff !important;
+	background-color: var(--bs-secondary);
 }
 .list-group a{
 	color: #ffffff !important;
