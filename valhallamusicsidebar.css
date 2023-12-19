@@ -2,7 +2,7 @@
 	:root{
 		  --bs-secondary: #282c35 !important;
 	}
-list-group-secondary{
+list-group-item-secondary{
 	font-family: 'Almarai', sans-serif !important;
 	font-size: 18px !important;
 	color: #ffffff !important;
